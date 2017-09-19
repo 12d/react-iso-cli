@@ -1,0 +1,36 @@
+{
+  "name": "react-iso-cli",
+  "version": "0.0.4",
+  "description": "command line tool for react-iso project",
+  "bin": {
+    "react-iso": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Len",
+  "email": "next_100@sina.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12d/react-iso-cli.git"
+  },
+  "keywords": [
+    "react-iso",
+    "react",
+    "ssr",
+    "isomorphic",
+    "webpack",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/12d/react-iso-cli/issues"
+  },
+  "homepage": "https://github.com/12d/react-iso-cli#readme"
+}
